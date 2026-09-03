@@ -299,10 +299,10 @@ Replace `YOUR_SPOTIFY_ID` below after connecting at [spotify-github-profile.kitt
 <div align="center">
 
 <a href="https://github.com/IncognitoQuack"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" alt="github"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="email"/></a>
-<a href="https://encryptera.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff9c" alt="portfolio"/></a>
+<a href="mailto:sanjitmathur18@gmail.com.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" alt="email"/></a>
+<!-- <a href="https://encryptera.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff9c" alt="portfolio"/></a>
 <a href="https://twitter.com/"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff9c" alt="x"/></a>
-<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="linkedin"/></a>
+<a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="linkedin"/></a> -->
 
 <br/><br/>
 
@@ -321,6 +321,4 @@ Replace `YOUR_SPOTIFY_ID` below after connecting at [spotify-github-profile.kitt
   3. Add .github/workflows/snake.yml (provided separately) for the snake animation.
      Then: Settings → Actions → General → Workflow permissions → Read and write.
      Run it once manually from the Actions tab.
-  4. Replace: your.email@example.com, the X + LinkedIn URLs, YOUR_SPOTIFY_ID.
-  5. Nothing else. It's already loud enough.
 -->
