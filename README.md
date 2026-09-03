@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/IncognitoQuack">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&width=780&lines=%24+whoami+--verbose;Full-stack+dev+with+a+privacy+obsession.;I+build+things+that+forget+you+on+purpose.;Node.js+%7C+JavaScript+%7C+E2E+encryption+%7C+realtime;Rubber-duck+debugging%2C+except+the+duck+writes+the+code." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=700&color=00FF9C&center=true&vCenter=true&width=820&lines=%24+whoami+--verbose;Full-stack+dev+with+a+privacy+%28and+AI%2FML%29+obsession.;I+build+things+that+forget+you+on+purpose.;Node.js+%7C+Python+%7C+E2E+encryption+%7C+realtime+%7C+AI%2FML;Rubber-duck+debugging%2C+except+the+duck+fine-tunes+the+model." alt="Typing intro" />
 </a>
 
 <br/>
@@ -52,13 +52,14 @@
 
 ```jsonc
 {
-  "alias":     "IncognitoQuack",
-  "role":      "Full-stack developer · privacy & security tinkerer",
-  "stack":     ["JavaScript", "Node.js", "Socket.io", "HTML/CSS"],
-  "obsessions": ["end-to-end encryption", "realtime systems", "clean UX"],
-  "shipping":  ["Encryptera", "SecureCode", "SecureChat", "Finance Manager"],
-  "philosophy": "The best data you can leak is the data you never stored.",
-  "status":    "compiling something you're not supposed to know about"
+  "alias":      "IncognitoQuack",
+  "role":       "Full-stack developer · privacy & security tinkerer · AI/ML tinkerer",
+  "stack":      ["JavaScript", "Node.js", "Python", "Socket.io", "HTML/CSS"],
+  "ml_stack":   ["PyTorch", "Hugging Face", "scikit-learn", "Pandas/NumPy", "Jupyter"],
+  "obsessions": ["end-to-end encryption", "realtime systems", "clean UX", "on-device inference"],
+  "shipping":   ["Encryptera", "SecureCode", "SecureChat", "Finance Manager"],
+  "philosophy": "The best data you can leak is the data you never stored — models included.",
+  "status":     "compiling something you're not supposed to know about"
 }
 ```
 
@@ -77,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,express,socketio,html,css,tailwind,react,python,mongodb,firebase,git,github,vscode,netlify,vercel,linux,figma&theme=dark&perline=9" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,socketio,html,css,tailwind,react,python,pytorch,tensorflow,jupyter,mongodb,firebase,git,github,vscode,netlify,vercel,linux,figma&theme=dark&perline=9" alt="tech stack" />
 
 </div>
 
@@ -91,6 +92,7 @@
 | **Frontend** | JavaScript · HTML5 · CSS3 · Tailwind | Interfaces that stay out of your way |
 | **Backend** | Node.js · Express · Socket.io | Realtime rooms, ephemeral sessions, file relays |
 | **Security** | Web Crypto API · AES · hashing · zero-log design | E2E chat, encrypted transfer, secret sharing |
+| **AI/ML** | Python · PyTorch · Hugging Face · scikit-learn | Small models, RAG pipelines, on-device inference that doesn't phone home |
 | **Data** | MongoDB · Firebase · localStorage-first | Store the minimum. Forget the rest. |
 | **Ops** | Git · GitHub Actions · Netlify · Vercel | Push → build → live in under a minute |
 
@@ -120,12 +122,32 @@ flowchart LR
 
 ---
 
+## 🤖 Currently Training
+
+<div align="center">
+
+Splitting time between shipping full-stack apps and getting models to behave — same privacy-first rules apply.
+
+</div>
+
+```jsonc
+{
+  "focus":      ["local-first LLM tooling", "RAG pipelines", "fine-tuning small models", "on-device inference"],
+  "stack":      ["Python", "PyTorch", "Hugging Face", "scikit-learn", "Jupyter", "Pandas/NumPy"],
+  "philosophy": "If the model needs your data to leave the device, it's not private — it's rented."
+}
+```
+
+<sub>No public AI/ML repos pinned yet — check back, or open an issue if you want to compare notes.</sub>
+
+---
+
 ## 📡 Signal Intelligence
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IncognitoQuack&show_icons=true&hide_border=true&title_color=00ff9c&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitoQuack&layout=compact&hide_border=true&title_color=00ff9c&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IncognitoQuack&show_icons=true&hide_border=true&title_color=00ff9c&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitoQuack&layout=compact&hide_border=true&title_color=00ff9c&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=86400" alt="languages"/>
 
 <br/>
 
@@ -232,6 +254,11 @@ Run it. If you get the flag, [open an issue titled `QUACK`](https://github.com/I
   (o >    A: "Yesterday you had a semicolon."
   \\ )
   --"-
+        Q: "Should I just use an LLM for this?"
+   __
+  (o >    A: "Only if it forgets you afterward."
+  \\ )
+  --"-
 ```
 
 Rubber-duck debugging is free. Consider me on call.
@@ -278,8 +305,6 @@ Replace `YOUR_SPOTIFY_ID` below after connecting at [spotify-github-profile.kitt
 <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" alt="linkedin"/></a>
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="0" height="0" alt=""/>
 
 > *"Anonymity isn't hiding. It's refusing to be the product."*
 
