@@ -218,9 +218,6 @@ Splitting time between shipping full-stack apps and getting models to behave —
 
 </div>
 
-> [!NOTE]
-> This renders once the included GitHub Action runs. Setup instructions are at the bottom of this file.
-
 ---
 
 ## 🧩 Interactive Zone
