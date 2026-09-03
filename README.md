@@ -144,9 +144,9 @@ Splitting time between shipping full-stack apps and getting models to behave —
 
 ## 📡 Signal Intelligence
 
-<!-- <div align="center">
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IncognitoQuack&show_icons=true&hide_border=true&title_color=00ff9c&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="stats"/>
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=IncognitoQuack&show_icons=true&hide_border=true&title_color=00ff9c&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitoQuack&layout=compact&hide_border=true&title_color=00ff9c&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=86400" alt="languages"/>
 
 <br/> -->
