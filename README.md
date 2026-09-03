@@ -262,18 +262,16 @@ Rubber-duck debugging is free. Consider me on call.
 
 </details>
 
-<details>
+<!-- <details>
 <summary><b>🎧 What's playing while I commit →</b></summary>
 
 <br/>
 
-Replace `YOUR_SPOTIFY_ID` below after connecting at [spotify-github-profile.kittinanx.com](https://spotify-github-profile.kittinanx.com):
-
 ```md
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00ff9c&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+[![YT Music](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=00ff9c&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 ```
 
-</details>
+</details> -->
 
 <details>
 <summary><b>📊 My commit hours, honestly →</b></summary>
