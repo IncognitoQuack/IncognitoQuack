@@ -144,22 +144,22 @@ Splitting time between shipping full-stack apps and getting models to behave —
 
 ## 📡 Signal Intelligence
 
-<div align="center">
+<!-- <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=IncognitoQuack&show_icons=true&hide_border=true&title_color=00ff9c&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncognitoQuack&layout=compact&hide_border=true&title_color=00ff9c&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=86400" alt="languages"/>
 
-<br/>
+<br/> -->
 
 <img height="165" src="https://streak-stats.demolab.com?user=IncognitoQuack&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=2dd4bf&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=00ff9c" alt="streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=IncognitoQuack&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=IncognitoQuack&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IncognitoQuack&bg_color=0d1117&color=00ff9c&line=2dd4bf&point=ffffff&area=true&area_color=00ff9c&hide_border=true&custom_title=Commit%20Frequency%20%2F%20Last%20365%20Days" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IncognitoQuack&bg_color=0d1117&color=00ff9c&line=2dd4bf&point=ffffff&area=true&area_color=00ff9c&hide_border=true&custom_title=Commit%20Frequency%20%2F%20Last%20365%20Days" alt="activity graph"/> -->
 
 </div>
 
@@ -167,7 +167,7 @@ Splitting time between shipping full-stack apps and getting models to behave —
 
 ## 🛰️ Declassified Projects
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/IncognitoQuack/SecureChat">
   <img height="118" src="https://github-readme-stats.vercel.app/api/pin/?username=IncognitoQuack&repo=SecureChat&hide_border=true&title_color=00ff9c&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117" alt="SecureChat"/>
@@ -182,7 +182,7 @@ Splitting time between shipping full-stack apps and getting models to behave —
   <img height="118" src="https://github-readme-stats.vercel.app/api/pin/?username=IncognitoQuack&repo=File-sharing&hide_border=true&title_color=00ff9c&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0d1117" alt="File-sharing"/>
 </a>
 
-</div>
+</div> -->
 
 <details>
 <summary><b>🗂️ Expand the full case file →</b></summary>
