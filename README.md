@@ -19,9 +19,7 @@
 <br/>
 
 <a href="https://github.com/IncognitoQuack?tab=followers"><img src="https://img.shields.io/github/followers/IncognitoQuack?style=for-the-badge&logo=github&logoColor=00ff9c&color=0d1117&labelColor=0d1117&label=FOLLOWERS" alt="followers"/></a>
-<a href="https://github.com/IncognitoQuack?tab=repositories"><img src="https://img.shields.io/badge/REPOS-27-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c&labelColor=0d1117" alt="repos"/></a>
-<a href="https://encryptera.netlify.app"><img src="https://img.shields.io/badge/ENCRYPTERA-live-0d1117?style=for-the-badge&logo=netlify&logoColor=00ff9c&labelColor=0d1117" alt="encryptera"/></a>
-<a href="https://securecode.netlify.app"><img src="https://img.shields.io/badge/SECURECODE-live-0d1117?style=for-the-badge&logo=netlify&logoColor=00ff9c&labelColor=0d1117" alt="securecode"/></a>
+<a href="https://github.com/IncognitoQuack?tab=repositories"><img src="https://img.shields.io/badge/REPOS-53-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c&labelColor=0d1117" alt="repos"/></a>
 <img src="https://komarev.com/ghpvc/?username=IncognitoQuack&style=for-the-badge&color=00ff9c&label=TRACES+LEFT" alt="views"/>
 
 </div>
