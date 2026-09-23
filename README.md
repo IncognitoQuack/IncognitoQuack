@@ -56,7 +56,7 @@
   "ml_stack":   ["PyTorch", "Hugging Face", "scikit-learn", "Pandas/NumPy", "Jupyter"],
   "obsessions": ["end-to-end encryption", "realtime systems", "clean UX", "on-device inference"],
   "shipping":   ["Encryptera", "SecureCode", "SecureChat", "Finance Manager"],
-  "philosophy": "The best data you can leak is the data you never stored — models included.",
+  "philosophy": "I was Born at a very young age",
   "status":     "compiling something you're not supposed to know about"
 }
 ```
